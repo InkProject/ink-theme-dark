@@ -1,8 +1,36 @@
 # Ink Theme Dark
 The Dark theme of InkPaper. New to [InkPaper](http://www.chole.io)?
 
-[![ink](https://img.shields.io/badge/ink-v2017--02--25-blue.svg)](http://www.chole.io/)
+[![InkPaper](https://img.shields.io/badge/InkPaper-v2017--02--25-blue.svg)](http://www.chole.io/)
 [![license](https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+## How to use it
+- Clone this repository
+- Copy `dark` to blog file and Change theme
+  ```ymal
+  site:
+      title: "InkPaper"
+      subtitle: "An Elegant Static Blog Generator"
+      limit: 10
+      theme: dark
+      ...
+  ```
+- add **bg1.jpg** & **bg2.jpg** to blog `source/images` file as your background image
+  > Don't change filenames unless you want to do more custom
+- Run `ink preview`
+
+## Preview
+[See preview](http://www.shery.me/blog/)
+
+![archive](./screenshot/archive.png)
+
+## FAQ
+Before opening a new issue please check our [FAQ page](https://github.com/InkProject/ink-theme-dark/issues).
+
+## Contributing
+* ⇄ Pull requests and ★ Stars are always welcome.
+* For bugs and feature requests, please create an [issue](https://github.com/InkProject/ink-theme-dark/issues).
+* To contribute to ink-theme-dark, clone this repo locally and commit your code on a separate branch.
 
 ## License
 
