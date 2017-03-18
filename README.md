@@ -1,3 +1,9 @@
+# Ink Theme Dark
+The Dark theme of InkPaper. New to [InkPaper](http://www.chole.io)?
+
+[![ink](https://img.shields.io/badge/ink-v2017--02--25-blue.svg)](http://www.chole.io/)
+[![license](https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
