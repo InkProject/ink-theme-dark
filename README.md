@@ -7,6 +7,7 @@ The Dark theme of InkPaper. New to [InkPaper](http://www.chole.io)?
 ## How to use it
 - Clone this repository
 - Copy `dark` to blog file and Change theme
+
   ```ymal
   site:
       title: "InkPaper"
@@ -15,6 +16,7 @@ The Dark theme of InkPaper. New to [InkPaper](http://www.chole.io)?
       theme: dark
       ...
   ```
+
 - add **bg1.jpg** & **bg2.jpg** to blog `source/images` file as your background image
   > Don't change filenames unless you want to do more custom
 - Run `ink preview`
