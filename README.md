@@ -1,6 +1,7 @@
 # Ink Theme Dark
 The Dark theme of InkPaper. New to [InkPaper](http://www.chole.io)?
 
+[![Github Releases](https://img.shields.io/badge/releases-v1.0-green.svg)](https://github.com/InkProject/ink-theme-dark/releases)
 [![InkPaper](https://img.shields.io/badge/InkPaper-v2017--02--25-blue.svg)](http://www.chole.io/)
 [![license](https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
