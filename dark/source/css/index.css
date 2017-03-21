@@ -17,8 +17,10 @@
   height: 100vh;
   margin-bottom: 5rem;
   text-align: center;
-  background: $dark no-repeat center center;
+  background-color: $dark;
+  background-position:center;
   background-size: cover;
+  background-repeat: no-repeat;
   background-attachment: fixed;
   overflow: hidden;
   &.tag-content {
@@ -31,6 +33,7 @@
   }
   &.asset {
     height: 40vh;
+    background-attachment: scroll;
   }
   a {
     color: $white;
@@ -237,6 +240,7 @@ a.name {
     .header-wrap {
       box-sizing: border-box;
       margin-bottom: 15px;
+      background-attachment: scroll;
     }
 
     .header-wrap .main-nav {
