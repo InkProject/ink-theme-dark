@@ -148,7 +148,7 @@ a.name {
     .logo {
       margin: 0 auto;
       width: 80px;
-      height: 80px;
+      /* height: 80px; */
       /*border-radius: 50%;*/
       background-size: cover;
       background-repeat: no-repeat;
