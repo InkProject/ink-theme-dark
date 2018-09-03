@@ -25,7 +25,6 @@ The Dark theme of InkPaper. New to [InkPaper](http://www.chole.io)?
 - Run `ink preview`
 
 ## Preview
-[See preview](http://www.shery.me/blog/)
 
 ![archive](./screenshot/archive.png)
 
